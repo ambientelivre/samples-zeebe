@@ -85,4 +85,4 @@ zeebe:
     exporters:
       hazelcast:
         className: io.zeebe.hazelcast.exporter.HazelcastExporter
-        jarPath: exporters/zeebe-hazelcast-exporter-1.0.0.jar
+        jarPath: exporters/zeebe-hazelcast-exporter-1.1.0-jar-with-dependencies.jar
